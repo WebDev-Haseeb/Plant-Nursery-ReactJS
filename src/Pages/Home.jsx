@@ -25,7 +25,7 @@ export default function Home() {
 
           </ul>
 
-          <button onClick={() => navigate("/Products")} className="cta-button">
+          <button onClick={() => navigate("/Plant-Nursery-ReactJS/Products")} className="cta-button">
             Shop Now!
             <span className="button-leaf">🌿</span>
           </button>

@@ -9,9 +9,9 @@ const App = () => {
     <CartProvider>
       <Router>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/products" element={<Products />} />
-          <Route path="/cart" element={<Cart />} />
+          <Route path="/Plant-Nursery-ReactJS/" element={<Home />} />
+          <Route path="/Plant-Nursery-ReactJS/Products" element={<Products />} />
+          <Route path="/Plant-Nursery-ReactJS/Cart" element={<Cart />} />
         </Routes>
       </Router>
     </CartProvider>
